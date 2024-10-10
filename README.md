@@ -1,6 +1,8 @@
 # ridge2sls
 Two stage least squares (2SLS) ridge regression (two stage ridge least squares (2SRLS) Use ridge2sls With STATA 18
 
+https://www.youtube.com/watch?v=HDVkbGDCp1Q
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
